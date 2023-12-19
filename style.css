@@ -1,6 +1,8 @@
 
-
-
-body {text-align: center;
+.principal {text-align: center;
     background:grey;
 }
+.banner{width: 100%;} 
+.lista{vertical-align: top;
+display: inline-block;}
+.destaque{color: red;}
